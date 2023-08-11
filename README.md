@@ -15,14 +15,14 @@
 
 ---
 
-### 🐶 About Me :
-I am terrible at coding 🤟😎
+### 🐶 about me :
+i am terrible at coding 🤟😎
 
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vickie-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vickie-chen0728/) [![Gmail Badge](https://img.shields.io/badge/-Vickie-darkred?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vickiecchen@gmail.com)
+📫 how to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vickie-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vickie-chen0728/) [![Gmail Badge](https://img.shields.io/badge/-Vickie-darkred?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vickiecchen@gmail.com)
 
 ---
 
-### 🛠️ Languages and Tools :
+### 🛠️ languages and tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
