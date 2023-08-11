@@ -18,7 +18,7 @@
 ### 🐶 About Me :
 I am terrible at coding 🤟😎
 
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vickie-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vickie-chen0728/) [![Gmail Badge](https://img.shields.io/badge/-Vickie-darkred?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=mochalattechen@gmail.com)
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vickie-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vickie-chen0728/) [![Gmail Badge](https://img.shields.io/badge/-Vickie-darkred?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vickiecchen@gmail.com)
 
 ---
 
