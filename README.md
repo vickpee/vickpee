@@ -15,10 +15,14 @@
 
 ---
 
-### 🐶 about me :
-here 2 learn 🤟😎
+### 🐶 about me:
+ Shopify Dev Degree Intern (2025 Cohort) 🐢   
+ Freshman at Carleton University studying Computer Science 👩‍💻 (Class of 2029)  
 
-📫 contact me!: [![Linkedin Badge](https://img.shields.io/badge/-Vickie-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vickie-chen0728/) [![Gmail Badge](https://img.shields.io/badge/-Vickie-darkred?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vickiecchen@gmail.com)
+Located in Ottawa, Canada 🍁
+
+📫 contact me!:   
+[![Linkedin Badge](https://img.shields.io/badge/-Vickie-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vickie-chen0728/) [![Gmail Badge](https://img.shields.io/badge/-Vickie-darkred?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vickiecchen@gmail.com)
 
 ---
 
